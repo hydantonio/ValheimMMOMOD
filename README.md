@@ -1,7 +1,7 @@
 # ValheimMMOMOD
 
 <p align="center">
-  <img src="https://i.imgur.com/ustEuqj.png" alt="ValheimMMOMOD Logo" width="100%" />
+  <img src="https://i.imgur.com/ustEuqj.png" alt="ValheimMMOMOD Logo" width="680px" />
 </p>
 
 ## Descrizione
