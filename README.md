@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/ustEuqj.png" alt="ValheimMMOMOD Logo" width="680px" />
-</p>
-
 # Valheim MMO MOD
 
 ![Valheim MMO MOD](assets/menu-logo.png)
