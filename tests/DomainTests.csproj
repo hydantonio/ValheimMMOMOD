@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net9.0</TargetFramework><EnableDefaultCompileItems>false</EnableDefaultCompileItems></PropertyGroup>
+  <ItemGroup><Compile Include="../src/Domain.cs" /><Compile Include="Program.cs" /><Compile Include="../src/ModText.cs" /><EmbeddedResource Include="../assets/localization/*.json" LogicalName="MMOMOD.Localization.%(Filename)%(Extension)" /><Compile Include="../src/TradeRules.cs" /><Compile Include="../src/VillageLayout.cs" /><Compile Include="../src/MMOJson.cs" /><Reference Include="Newtonsoft.Json"><HintPath>$(ValheimDir)/Valheim_Data/Managed/Newtonsoft.Json.dll</HintPath></Reference></ItemGroup>
+</Project>
